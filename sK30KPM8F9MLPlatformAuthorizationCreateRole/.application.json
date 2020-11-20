@@ -1,0 +1,10 @@
+{
+    "DeploymentMethod": "lambda",
+    "Functions": {
+        "sK30KPM8F9MLPlatformAuthorizationCreateRole": {
+            "PhysicalId": {
+                "us-east-1": "sK30KPM8F9MLPlatformAuthorizationCreateRole"
+            }
+        }
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "sK30KPM8F9MLPlatformAuthorizationCreateRole": {
+        "lambda": {
+            "body": {
+                "name": "papeltestedesc"
+            }
+        }
+    }
+}
